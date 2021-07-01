@@ -46,7 +46,7 @@
     "request": "2.88.2",
     "request-promise-native": "1.0.9",
     "ts-node": "9.0.0",
-    "typescript": "4.0.5"
+    "typescript": "4.3.5"
   },
   "license": "MIT"
 }
