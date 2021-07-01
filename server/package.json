@@ -38,7 +38,7 @@
     "@types/prettier": "2.1.5",
     "@types/request-promise-native": "1.0.17",
     "@types/stripe": "7.13.25",
-    "codecov": "3.8.0",
+    "codecov": "3.8.2",
     "execa": "4.1.0",
     "js-yaml": "3.14.1",
     "lerna": "3.22.1",
