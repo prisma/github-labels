@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@graywolfai/react-heroicons": "1.2.3",
-    "next": "9.5.5",
+    "next": "11.0.1",
     "react": "16.14.0",
     "react-dom": "16.14.0",
     "react-transition-group": "4.4.1"
