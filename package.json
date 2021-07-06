@@ -12,7 +12,7 @@
     "test": "yarn run build; NODE_ENV=test LOG_LEVEL=fatal jest --runInBand"
   },
   "devDependencies": {
-    "@types/jest": "26.0.15",
+    "@types/jest": "26.0.24",
     "chalk": "4.1.0",
     "codecov": "3.8.0",
     "execa": "4.1.0",
